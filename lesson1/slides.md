@@ -1,17 +1,18 @@
 ![GeneralAssemb.ly](../assets/img/icons/FEWD_Logo.png)
 
-#FEWD - HTML BASICS 
+#FEWD Lesson 1
+## FEWD - HTML BASICS
 
 ###Instructors
 
 Kevin Bluer & Jimmy Wong
 
-<---></--->
+---
 
 
 ##Agenda
 
-*	Student Experience
+*	Introductions 
 *	Intro To Web Development
 *	HTML Tags
 *	Lab Time
@@ -19,7 +20,7 @@ Kevin Bluer & Jimmy Wong
 ---
 
 
-##Student Experience
+##Introductions
 
 *	Ask your producer and then decide how you would like to structure this lesson.
 
