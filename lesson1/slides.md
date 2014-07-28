@@ -13,7 +13,10 @@ Kevin Bluer & Jimmy Wong
 ##Agenda
 
 *	Introductions 
+*	Course Structure
 *	Intro To Web Development
+*	Tools
+*	Version Control
 *	HTML Tags
 *	Lab Time
 
@@ -22,11 +25,9 @@ Kevin Bluer & Jimmy Wong
 
 ##Introductions
 
-*	Ask your producer and then decide how you would like to structure this lesson.
+*	Kevin Bluer
 
 ---
-
-
 
 ##Intro To Web Development
 
