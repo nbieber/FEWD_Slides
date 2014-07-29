@@ -409,7 +409,10 @@ The Doctype tells you if the page is HTML5 ready.
 
 ## Great References
 <aside class="notes"></aside>
+
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [A List Apart](http://alistapart.com/)
 * [SitePoint](http://www.sitepoint.com/)
 * [Quirksmode](http://www.quirksmode.org/)
+
+
