@@ -13,11 +13,23 @@ Kevin Bluer & Jimmy Wong
 
 *	Introductions 
 *	Course Structure
-*	Intro To Web Development
-*	Tools & Services
-*	Version Control
+*	What is Web Development?
+*	How a Web Project works?
+*	Tools & Services & Process
+*	Code Along
 *	HTML Tags
 *	Lab Time
+
+
+
+##Firstly, well done on making the choice to learn "the web"
+
+* You've made a great choice to learn web development
+* Why?
+  * You're setting yourself up well for the future
+  * It's a great starting off point to becoming a developer
+  * The ubiquity of JavaScript (server-side, mobile apps, utilities such reveal.js)
+  * It's fun and empowering (and evolving)
 
 
 
@@ -36,7 +48,10 @@ Kevin Bluer & Jimmy Wong
 
 ###Jimmy Wong
 
-* ...
+* Open Source Full-Stack developer
+* Grew up in Hong Kong, spent a lot of time in Boston
+* Will move to San Francisco soon
+* Currently working for [Mattermark](https://mattermark.com/)
 
 
 
@@ -60,12 +75,14 @@ Kevin Bluer & Jimmy Wong
   * Multiple Screens
 * Grading
   * Complete and submit 80% of all course homework assignments
+  * Any problems, literally just ask (we're here for you)
 
 
 
 ## Final Project
 
-* Start thinking about as possible...
+* Start thinking about it as soon possible...
+* Make it as personal / contextual / fun / random 
 * [FEWD HK Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/project/v3/)
 * [GA Gallery](https://generalassemb.ly/gallery)
 
@@ -84,28 +101,32 @@ Kevin Bluer & Jimmy Wong
 ## What is Web Development?
 <aside class="notes"></aside>
 
-Website
+Website (in its simplest form)
 
 * Single page of plain text
 * http://www.columbia.edu/~fdc/sample.html
 * Text-based browser - [Lynx](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lynx-wikipedia.png/1024px-Lynx-wikipedia.png) (this is how browsers used to look)
-* Modern browsers - Chrome, Firefox
+* Modern browsers - Chrome, Firefox, Safari, "Internet Explorer"
+* For the course we'll be standardizing upon Chrome (primarily for the consistent developer tools)
 
 
 
-## What is Web Development?
+
+## What is Web Development (examples)?
 <aside class="notes"></aside>
 
-Web applications
+Web applications (A little more complex)
 
-* Online shop
-* http://www.amazon.com
+* Online Commerce
+  * http://www.amazon.com
+  * http://www.alibaba.com
 * Social networks
-* http://www.facebook.com
+  * http://www.facebook.com
+  * http://www.weibo.com
 
 
 
-## What is Web Development?
+## What is Web Development (languages)?
 <aside class="notes"></aside>
 
 ### Client-Side
@@ -116,12 +137,13 @@ Web applications
 
 
 
-## What is Web Development?
+## What is Web Development (languages)?
 <aside class="notes"></aside>
 
-### Server-Side
+### Server-Side (with their respective frameworks)
 
-* Ruby
+* Ruby (and Rails)
+* Node.js
 * PHP
 * Python
 * PERL
@@ -129,7 +151,7 @@ Web applications
 
 
 
-## What is Web Development?
+## What is Web Development (separation of concerns)?
 <aside class="notes"></aside>
 
 For a static website, web development can simply refer to:
@@ -196,9 +218,9 @@ Project Management Tools
 ## Github and Codepen (and let's be friends)
 <aside class="notes"></aside>
 
-* Write you code online at [codepen.io](http://codepen.io/)
+* Write your code online at [codepen.io](http://codepen.io/) ([example](http://codepen.io/kevinbluer/pen/jlaGL))
 * Manage your code (and a lot more) at [github.com](http://github.com)
-* List yourself (and follow your peers) at [bit.ly/fewd6-share](http://bit.ly/fewd6-share)
+* Register and list yourself (and follow your peers) at [bit.ly/fewd6-share](http://bit.ly/fewd6-share)
 
 
 
@@ -367,8 +389,8 @@ The Doctype tells you if the page is HTML5 ready.
 * It's going to build up to the following (but for now just what we have covered...headers, bullets, etc)
   * [About me](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_AboutMe.png)
   * [Résumé](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_Resume.png)
-* Read [Don't Fear The Internet](http://www.dontfeartheinternet.com/the-basics/not-tubes)
-* Some additional reading...
+* Watch [Don't Fear The Internet](http://www.dontfeartheinternet.com/the-basics/not-tubes)
+* Some additional reading on the next slide...
 
 
 
