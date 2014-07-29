@@ -378,7 +378,7 @@ The Doctype tells you if the page is HTML5 ready.
 
 * Create your first index.html
 * Try the __html__ + __Tab__ magic
-* [HTML Quick List](http://www.w3schools.com/html/html_quick.asp)
+* [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 
@@ -398,9 +398,15 @@ The Doctype tells you if the page is HTML5 ready.
 <aside class="notes"></aside>
 
 * [General Assembly's Programming For Non Programmers](https://generalassemb.ly/online/videos/programming-for-non-programmers-get-started-with-html)
-* [The Guardian Blog](http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost)
+* [What is front-end development? (The Guardian Blog)](http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost)
 * [Web Design or Web Development, What’s The Difference?](http://purelybranded.com/insights/web-design-or-web-development-whats-the-difference/)
 * [Redefining Web Designers, Web Developers, and Web Hybrids for the modern market](http://tristandenyer.com/redefining-web-designers-web-developers-and-web-hybrids-for-the-modern-market/)
 * [How The Internet Works in Five Minutes](http://www.youtube.com/embed/7_LPdttKXPc)
 * [How does the Internet work? - Naked Science Scrapbook](http://www.youtube.com/watch?v=oj7A2YDgIWE)
 * [How The Internet Works - cartoon](http://landofthefreeish.com/pics/how-the-internet-works/)
+
+## Great References
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [A List Apart](http://alistapart.com/)
+* [SitePoint](http://www.sitepoint.com/)
+* [Quirksmode](http://www.quirksmode.org/)
