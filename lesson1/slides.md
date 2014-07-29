@@ -405,7 +405,10 @@ The Doctype tells you if the page is HTML5 ready.
 * [How does the Internet work? - Naked Science Scrapbook](http://www.youtube.com/watch?v=oj7A2YDgIWE)
 * [How The Internet Works - cartoon](http://landofthefreeish.com/pics/how-the-internet-works/)
 
+
+
 ## Great References
+<aside class="notes"></aside>
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [A List Apart](http://alistapart.com/)
 * [SitePoint](http://www.sitepoint.com/)
