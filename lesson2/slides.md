@@ -13,11 +13,12 @@ Kevin Bluer and Jimmy Wong
 * Quick Recap (and Homework Review)
 * HTML Basics Review
 * Images
+* Directory Structures
 * Intro To CSS
   * Link Tag
-  * Colors
   * Fonts
-* Linking To Other Pages
+* Code Along
+* Colors
 * Lab Time
 
 
@@ -46,6 +47,33 @@ Kevin Bluer and Jimmy Wong
 <br>
 
 * The `img` tag requires a `src` attribute, which tells the browser where to find the image to be placed.
+
+
+
+## HTML Basics Review
+<aside class="notes"></aside>
+
+## alt attribute
+
+```<img src="puppy.jpg" alt="My cute puppy">```
+
+* Add a simple description about your image as **alt** text
+* A lingustic context for search engine to understand what's your image is about
+
+
+
+## HTML Basics Review
+<aside class="notes"></aside>
+
+### 3 types of image format
+
+* .png (Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif, unless semi-transparency is not needed, and the gif format is significantly smaller.)
+* .gif (Can have basic transparency, typically a png is used instead.)
+* .jpg/jpeg (No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos.)
+
+
+
+## So where do you store everything?
 
 
 
@@ -128,29 +156,6 @@ ABSOLUTE PATH always starts from ```/```
 
 
 
-## HTML Basics Review
-<aside class="notes"></aside>
-
-## alt attribute
-
-```<img src="puppy.jpg" alt="My cute puppy">```
-
-* Add a simple description about your image as **alt** text
-* A lingustic context for search engine to understand what's your image is about
-
-
-
-## HTML Basics Review
-<aside class="notes"></aside>
-
-### 3 types of image format
-
-* .png (Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif, unless semi-transparency is not needed, and the gif format is significantly smaller.)
-* .gif (Can have basic transparency, typically a png is used instead.)
-* .jpg/jpeg (No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos.)
-
-
-
 ## Let's do some exercises!
 <aside class="notes"></aside>
 
@@ -159,6 +164,11 @@ ABSOLUTE PATH always starts from ```/```
 
 * Quick exercise wherein you debug some "issues"
 * An important discipline both for your own work and when working with other developers
+* Move the image into a sub-directory ("images")
+
+
+
+## Cascading Style Sheets
 
 
 
