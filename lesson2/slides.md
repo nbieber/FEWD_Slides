@@ -10,6 +10,7 @@ Kevin Bluer and Jimmy Wong
 
 ## Agenda
 
+* Quick Recap (and Homework Review)
 * HTML Basics Review
 * Images
 * Intro To CSS
@@ -21,8 +22,20 @@ Kevin Bluer and Jimmy Wong
 
 
 
+## Quick Recap (and Homework Review)
+
+* HTML Basics (html, p, h1, h2, h3, ul, li, a, etc)
+* Introduced Sublime Text, Github, Codepen
+* Feedback on any of the following?
+  * HTML Basics
+  * Tools & Services
+  * Schoology
+  * Life
+
+
+
 ## HTML Basics Review
-<aside class="notes">Mart ~ 20 Min</aside>
+<aside class="notes"></aside>
 
 ### Images
 
@@ -132,20 +145,20 @@ ABSOLUTE PATH always starts from ```/```
 
 ### 3 types of image format
 
-* .png
-* .gif
-* .jpg/jpeg
+* .png (Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif, unless semi-transparency is not needed, and the gif format is significantly smaller.)
+* .gif (Can have basic transparency, typically a png is used instead.)
+* .jpg/jpeg (No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos.)
 
 
 
 ## Let's do some exercises!
-<aside class="notes">Mart : Concept, Kit : Code ~ 60 Min</aside>
+<aside class="notes"></aside>
 
-![GeneralAssemb.ly](../assets/images/icons/code_along.png)
-## About Me
+![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
+## Fix It
 
-* We will create a About Me page from sketch
-* Show you how to apply CSS on your HTML tags
+* Quick exercise wherein you debug some "issues"
+* An important discipline both for your own work and when working with other developers
 
 
 
@@ -289,6 +302,16 @@ But why do we want to link to a separate CSS file?
 
 
 
+## Let's do some exercises!
+<aside class="notes"></aside>
+
+![GeneralAssemb.ly](../assets/images/icons/code_along.png)
+## About Me
+
+* We will create a About Me page from sketch
+* Show you how to apply CSS on your HTML tags
+
+
 
 ## Colors in CSS
 <aside class="notes"></aside>
@@ -378,4 +401,6 @@ As with RGBa, HSLa is exactly like HSL for the first 3 values, but takes a 4th a
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-* Wendy G. Bites - Resume.
+* Wendy G. Bites - Resume
+* "WendyBite_Resume.png" (and "RESUME PAGE" under "Wendy_Bite.txt")
+* Reference the same CSS file
