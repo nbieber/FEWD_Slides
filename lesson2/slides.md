@@ -12,13 +12,13 @@ Kevin Bluer and Jimmy Wong
 
 * Quick Recap (and Homework Review)
 * HTML Basics Review
-* Images
-* Directory Structures
+  * Images
+  * Directory Structures
+* Introducing Git (and Github again)
 * Intro To CSS
-  * Link Tag
   * Fonts
 * Code Along
-* Colors
+* CSS Colors
 * Lab Time
 
 
@@ -31,7 +31,7 @@ Kevin Bluer and Jimmy Wong
   * HTML Basics
   * Tools & Services
   * Schoology
-  * Life
+  * Life in general? :)
 
 
 
@@ -67,13 +67,19 @@ Kevin Bluer and Jimmy Wong
 
 ### 3 types of image format
 
-* .png (Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a gif, unless semi-transparency is not needed, and the gif format is significantly smaller.)
-* .gif (Can have basic transparency, typically a png is used instead.)
-* .jpg/jpeg (No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos.)
+* .png
+  * Supports transparency and semi-transparency
+  * Great for logos, icons, and repeating background tiles
+* .gif
+  * Smaller, can be animated
+* .jpg/jpeg
+  * No transparency
+  * Can be stored at different compression levels with varying amounts of "lossy-ness"
+  * Typically the best format for photos
 
 
 
-## So where do you store everything?
+## Where should you store the assets (images, etc) and how do we reference?
 
 
 
@@ -156,15 +162,65 @@ ABSOLUTE PATH always starts from ```/```
 
 
 
+## Brief Interlude - Introducing Git (and Github again)
+
+
+
+## Introducing Git (and Github again)
+
+* Github is both a place to store your code and a lovely web interface (social too)
+* Git is the underlying technology
+  * And the means with which you get your code in (and out) of Github
+* Download the Github client (mac.github.com or windows.github.com)
+* Also install the CLI (Command Line Interface) from http://git-scm.com
+* Open https://github.com/ga-students/FEWD_HK_6 (and click "Clone in Desktop")
+* Quick look at the CLI (note that you'll also apply you "directory traversal" skills here too)
+
+
+
 ## Let's do some exercises!
 <aside class="notes"></aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 ## Fix It
 
-* Quick exercise wherein you debug some "issues"
+* Download https://github.com/ga-students/FEWD_HK_6 via the client
+* Open lesson2/labs/fix_it/index.html
+* Debug the issues "issues"
 * An important discipline both for your own work and when working with other developers
-* Move the image into a sub-directory ("images")
+* Once you've done we'll explore sub-directories
+
+
+
+## How should you organize things?
+
+* Firstly, it's not an exact science...
+* Typically you group images, css, javascript, etc in separate directories
+  * Remember the importance of "separating concerns"
+* With all your pages kept in the top (or root directory)
+
+
+
+## Example directory structure
+
+```
+[project]
+  | - [images]
+  |    | - logo.png
+  |    | - mickey-mouse.jpg
+  |
+  | - [css]
+  |    | - style.css
+  |    
+  | - index.html
+  | - about.html
+```
+* Let's try it with Mickey ("mickey-mouse.jpg")
+* Create an "images" directory and move the image in there
+* Update the path to the image
+
+
+## Quick Break?
 
 
 
