@@ -20,14 +20,14 @@ Kevin Bluer & Jimmy Wong
 
 
 ## Foundational HTML + CSS
-<aside class="notes">Mart ~ 5 Minutes</aside>
+<aside class="notes">Jimmy ~ 5 Minutes</aside>
 
 ### Seperation of concerns.
 
 
 
 ## Box Model
-<aside class="notes">Mart ~ 30 min : @FEWD_HK_4/lesson3/labs/codepen-demo</aside>
+<aside class="notes">Jimmy ~ 30 min : @FEWD_HK_4/lesson3/labs/codepen-demo</aside>
 
 ### Every element in web design is a box
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
@@ -52,9 +52,12 @@ Kevin Bluer & Jimmy Wong
 **Height** = content height + padding-top + padding-bottom + border-top + border-bottom
 
 
+#### Makes no sense right? We'll introduce something better next class.
+
+
 
 ## HTML Template
-<aside class="notes"> Kit ~ 20 min : @FEWD_HK_4/lesson3/labs/template</aside>
+<aside class="notes"> Jimmy ~ 20 min : @FEWD_HK_4/lesson3/labs/template</aside>
 
 ```
 <!doctype html>
@@ -77,7 +80,7 @@ Kevin Bluer & Jimmy Wong
 
 
 ## Classes & Ids
-<aside class="notes">Mart ~ 10 mins</aside>
+<aside class="notes">Jimmy ~ 10 mins</aside>
 
 ### With classes and ids we can target specific elements on a page, so we can manipulate it uniquely.
 ```
@@ -92,7 +95,7 @@ h1.tagline { color: blue; } /* Only apply to the <h1> tag which has class = tagl
 
 
 ## Classes & Ids
-<aside class="notes">Mart ~ 10 mins</aside>
+<aside class="notes">Jimmy ~ 10 mins</aside>
 
 How to __select__ classes in CSS?
 
@@ -105,16 +108,16 @@ How to __select__ classes in CSS?
 
 
 ## Classes & Ids
-<aside class="notes">Mart ~ 5 mins</aside>
+<aside class="notes">Jimmy ~ 5 mins</aside>
 
-### When should i use them? id or class?
+### When should I use them? id or class?
 
 [The Difference Between ID and Class by Chris Coyier](http://css-tricks.com/the-difference-between-id-and-class/)
 
 
 
 ## Nested Selectors
-<aside class="notes">Kit ~ 30 min : @FEWD_HK_4/lesson3/labs/nested-selectors</aside>
+<aside class="notes">Jimmy ~ 30 min : @FEWD_HK_4/lesson3/labs/nested-selectors</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
@@ -134,7 +137,7 @@ How to __select__ classes in CSS?
 
 
 ## Version Control
-<aside class="notes">Mart ~ 60 Min</aside>
+<aside class="notes">Jimmy ~ 60 Min</aside>
 
 ### Installation
 
@@ -149,7 +152,7 @@ How to __select__ classes in CSS?
 
 ## Git Concepts
 <aside class="notes">
-  Mart ~ 10 Min
+  Jimmy ~ 10 Min
   Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
 </aside>
 
