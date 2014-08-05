@@ -32,7 +32,7 @@ Kevin Bluer & Jimmy Wong
 ### Every element in web design is a box
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
-* In the HTML, all elements follow the box model.
+* Understanding the box model is **CRITICAL** to understanding how to style and HTML document.
 
 
 
