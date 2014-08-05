@@ -51,6 +51,10 @@ Kevin Bluer & Jimmy Wong
 
 **Total Height** = `margin-top` + `border-top` + `padding-top` + `height` + `padding-bottom` + `border-bottom` + `margin-bottom`
 
+
+
+## Box Model
+
 #### Makes no sense right? There's something better.
 
 
@@ -61,13 +65,12 @@ Kevin Bluer & Jimmy Wong
 
 **Total Height** = `border-top` + `padding-top` + `height` + `padding-bottom` + `border-bottom`
 
+
 ### Much more intuitive.
 
 
 
 ## How the Enable the Good Box Model?
-
-
 ```
 /* Box Model Hack */
 * {
@@ -83,8 +86,6 @@ Kevin Bluer & Jimmy Wong
 
 
 ## display
-
-
 ```
 display: [block|inline|inline-block]
 ```
