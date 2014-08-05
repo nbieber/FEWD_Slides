@@ -53,8 +53,6 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## Box Model
-
 #### Makes no sense right? There's something better.
 
 
