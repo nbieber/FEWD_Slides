@@ -43,16 +43,60 @@ Kevin Bluer & Jimmy Wong
 
 
 
-##Box Model
+## Box Model
 
 <aside class="notes"> : @FEWD_HK_4/lesson3/labs/box-model</aside>
 
-**Width** = content width + padding-left + padding-right + border-left + border-right
+**Total Width** = `margin-left` + `border-left` + `padding-left` + `width` + `padding-right` + `border-right` + `margin-right`
 
-**Height** = content height + padding-top + padding-bottom + border-top + border-bottom
+**Total Height** = `margin-top` + `border-top` + `padding-top` + `height` + `padding-bottom` + `border-bottom` + `margin-bottom`
+
+#### Makes no sense right? There's something better.
 
 
-#### Makes no sense right? We'll introduce something better next class.
+
+## border-box
+
+**Total Width** = `border-left` + `padding-left` + `width` + `padding-right` + `border-right`
+
+**Total Height** = `border-top` + `padding-top` + `height` + `padding-bottom` + `border-bottom`
+
+### Much more intuitive.
+
+
+
+## How the Enable the Good Box Model?
+
+
+```
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+```
+
+### Works for most things, except tables.
+
+
+
+
+## display
+
+
+```
+display: [block|inline|inline-block]
+```
+
+* `display: block;`
+  * The box model above
+  * [Block elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+* `display: inline;`
+  * "Normal flow" content, i.e. text
+  [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elemente)
+* `display: inline-block;`
+  * A mix of the above
 
 
 
