@@ -240,7 +240,7 @@ But...
 
 ### Fashion Blog Part 2
 
-<a href="../lesson4/labs/fashion_blog_part2.png"><img src="/lesson4/labs/fashion_blog_part2.png" width="768"></a>
+<a href="../lesson4/labs/fashion_blog_part2.png"><img src="../lesson4/labs/fashion_blog_part2.png" width="768"></a>
 
 
 
