@@ -43,7 +43,7 @@ Kevin Bluer & Jimmy Wong
 Selects Adjacent Element
 
 ```css
-.first-born + second-born {
+.first-born + .second-born {
   color: red;
 }
 ```
@@ -64,7 +64,7 @@ Selects Adjacent Element
 Selects All Siblings
 
 ```css
-.first-born + div {
+.first-born ~ div {
   color: red;
 }
 ```
