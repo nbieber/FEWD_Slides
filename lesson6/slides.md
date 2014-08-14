@@ -227,7 +227,7 @@ repeat forever:
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
-Let's add another color options
+* Let's add another color option together
 
 
 
@@ -238,9 +238,6 @@ Let's add another color options
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-
-
-## Exercise Considerations
 * Build on the mental model of how JS works with HTML and CSS
 * Don't worry too much about the syntax itself (we'll be diving in later)
 
