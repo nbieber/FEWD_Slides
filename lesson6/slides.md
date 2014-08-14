@@ -259,3 +259,4 @@ repeat forever:
 * If you haven't watched...
   * [Front Row Video - How To Learn How To Code](https://generalassemb.ly/online/videos/programming-for-non-programmers-tech-speak/cinema?chapter=3)
   * [Front Row Video - What Can You Do With JavaScript?](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3)
+* :)
