@@ -209,6 +209,17 @@ repeat forever:
 
 
 
+## A few JS basics
+
+* JavaScript is more of a "real" programming language (unlike HTML and CSS)
+* Interpreted at runtime by the client browser (unlike "compiled programming")
+* "Created in 10 days in May 1995 by Brendan Eich, then working at Netscape and now of Mozilla"
+* Going through a big renaissance of late :)
+* Can be including in your page in very much the same way that CSS can
+  * Although typically it's in a separate .js files
+
+
+
 [Color Switcher](http://codepen.io/kevinbluer/pen/vrfbJ)
 <aside class="notes"></aside>
 
