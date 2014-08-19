@@ -69,6 +69,9 @@ What are variables?
 
 
 
+# Open the Chrome Console...your new best friend :)
+
+
 
 ## Variables Declaration
 <aside class="notes"></aside>
