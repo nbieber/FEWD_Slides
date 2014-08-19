@@ -138,6 +138,7 @@ name = "Amir";
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
 * [Codepen](http://codepen.io/kevinbluer/pen/EwIBs)
+* Add a new field to divide by two and multiply by 5
 
 
 
