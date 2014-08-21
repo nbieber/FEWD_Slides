@@ -14,12 +14,14 @@ Kevin Bluer & Jimmy Wong
 * Review Temperature Converter
 * Functions
 * Cash Register
-* Rock Paper Scissors
 * Anonymous functions
+* Rock Paper Scissors
+* Wireframing Tools (Time Permitting)
+* Homework
 
 
 
-# Quick Review - Temperature Converter
+## Quick Review: Temperature Converter
 
 
 
@@ -220,6 +222,7 @@ function linkIsClicked(event) {
 <aside class="notes"></aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
+
 * /labs/cash_register
 
 
@@ -227,7 +230,7 @@ function linkIsClicked(event) {
 # Anonymous function
 <aside class="notes"></aside>
 
-Sometime we could write a function without give it a name.
+Sometime we could write a function without given it a name.
 
 Example:
 
@@ -239,7 +242,7 @@ Example:
 
 
 
-# Anonymous function
+# Normal functions
 <aside class="notes"></aside>
 
 ```
@@ -284,5 +287,26 @@ function updateBg(color) {
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-* Program in pairs
-* Any questions on anything, just ask! 
+* Use the "obfuscated" version as a reference
+* Program in pairs (XP Programming Style)
+* Any questions on anything, just ask!
+* Tip: the homework will be to complete RPS
+
+
+
+# Wireframing Tools
+<aside class="notes"></aside>
+
+* Purpose
+* Low-to-high fidelity
+* Balsamiq
+* UXPin
+* Sketch 3
+
+
+
+# Homework
+<aside class="notes"></aside>
+
+* Complete Rock Paper Scissors
+* Ask questions...
