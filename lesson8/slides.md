@@ -130,7 +130,7 @@ function add(num1, num2) {
 ## Functions
 <aside class="notes"></aside>
 
-**Real life example**
+**Real life example** ([let's review](http://codepen.io/kevinbluer/pen/sKlAe))
 
 ```
 function calculateTax(income, allowances) {
@@ -155,6 +155,10 @@ function calculateTax(income, allowances) {
 }
 
 ```
+
+
+
+# Events
 
 
 
