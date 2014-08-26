@@ -16,7 +16,6 @@ Kevin Bluer & Jimmy Wong
 * Cash Register
 * Anonymous functions
 * Rock Paper Scissors
-* Wireframing Tools (Time Permitting)
 * Homework
 
 
@@ -295,17 +294,6 @@ function updateBg(color) {
 * Program in pairs (XP Programming Style)
 * Any questions on anything, just ask!
 * Tip: the homework will be to complete RPS
-
-
-
-# Wireframing Tools
-<aside class="notes"></aside>
-
-* Purpose
-* Low-to-high fidelity
-* Balsamiq
-* UXPin
-* Sketch 3
 
 
 
