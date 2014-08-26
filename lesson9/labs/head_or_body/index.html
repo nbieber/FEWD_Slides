@@ -22,11 +22,14 @@
 
 </head>
 <body>
+
   <script type="text/javascript">
     alert("** body before #text **");
     alert(document.getElementById("text").innerHTML); // You won't see this alert box becoz the intepreter has not read the #text line yet
   </script>
+
   <h1 id="text">Hello World</h1>
+  
   <script type="text/javascript">
     alert("** body after #text **");
     alert(document.getElementById("text").innerHTML); // This will be shown as it is after the #text
