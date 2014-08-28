@@ -104,7 +104,7 @@ false
 
 ## Truth Table
 
-|| means logical conjunction, AKA ***OR***  (not to be confused with exclusive or)
+|| means logical disjunction, AKA ***OR***  (not to be confused with exclusive or)
 
 ![Logical Disjunction](../assets/images/lesson10/or.png)
 
@@ -131,7 +131,7 @@ false
 ### Expressions vs Statements
 
 
-## Expresions
+## Expressions
 
 ```javascript
 1 + 2
