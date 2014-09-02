@@ -1,5 +1,5 @@
 ![General Assembly](../assets/images/ga.png)
-# FEWD LESSON 10
+# FEWD LESSON 11
 
 ## FEWD - Arrays
 
@@ -201,7 +201,7 @@ Example:
 var cities = ['NYC', 'LA', 'SYD', 'LDN'];
 
 for (var i = 0; i < cities.length; i++) {
-  console.log('cities[' + index + ']: ' + cities[i]);
+  console.log('cities[' + i + ']: ' + cities[i]);
 };
 ```
 
