@@ -150,7 +150,7 @@ cities.CDG = "Paris Charles de Gaulle Airport"; // more about this syntax later
 
 ```javascript
 // Delete a key value pair
-delete cities;
+delete cities["LHR"];
 ```
 
 
