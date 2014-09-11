@@ -47,7 +47,8 @@ Kevin Bluer & Jimmy Wong
 ## Final Project Best Practices
 
 * Clean And Readable Code
-  * Easy to read and follow. Maintain clean and readable code including: consistent indentation, code commenting (e.g. when closing ```<div>``` tags, demarcating sections of code, describing possibly ambiguous code choices) and use proper and consistent naming conventions.
+  * Easy to read and follow. 
+  * Maintain clean and readable code including: consistent indentation, code commenting (e.g. when closing ```<div>``` tags, demarcating sections of code, describing possibly ambiguous code choices) and use proper and consistent naming conventions.
 
 * Search Engine Optimization (SEO)
   * Implement SEO best practices related to HTML markup, and content optimization.
@@ -57,7 +58,7 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## The Memory Game
+## Lab - The Memory Game
 
 
 
