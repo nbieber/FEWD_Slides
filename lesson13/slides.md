@@ -11,9 +11,9 @@ Kevin Bluer & Jimmy Wong
 ## Agenda
 <aside class="notes"></aside>
 
-* Projects - Review Goals & Best Practices
-* Projects - Individual Status Review
-* Projects - Q&A / Discussion
+* Projects - Goals
+* Projects - Requirements
+* Projects - Best Practices
 * Lab Session - The Memory Game
 * One-to-Ones (During Lab Session)
 
