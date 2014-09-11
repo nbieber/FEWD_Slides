@@ -15,6 +15,7 @@ Kevin Bluer & Jimmy Wong
 * Projects - Requirements
 * Projects - Best Practices
 * Lab Session - The Memory Game
+* CSS Background Position
 * One-to-Ones (During Lab Session)
 
 
@@ -55,6 +56,35 @@ Kevin Bluer & Jimmy Wong
 
 * Avoid deprecated tags
   * Uses best practices and build using supported HTML and CSS tags.
+
+
+
+## CSS - background-position
+<aside class="notes"></aside>
+
+HTML
+
+```
+<div id="cards"></div>
+<div id="clubKing"></div>
+```
+
+CSS
+
+```
+#cards {
+  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
+  width: 950px;
+  height: 392px;
+}
+
+#clubKing {
+  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
+  width: 71px;
+  height: 96px;
+  background-position: -877px -1px;
+}
+```
 
 
 
