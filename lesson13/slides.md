@@ -11,23 +11,11 @@ Kevin Bluer & Jimmy Wong
 ## Agenda
 <aside class="notes"></aside>
 
-* Lab Session - The Memory Game
 * Projects - Review Goals & Best Practices
 * Projects - Individual Status Review
 * Projects - Q&A / Discussion
-
-
-
-
-## The Memory Game
-<aside class="notes"></aside>
-
-![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
-
-How to start?
-
-1. Write pseudo code (20 mins)
-1. HTML and CSS (30 mins) first and JS last (60-90 mins)
+* Lab Session - The Memory Game
+* One-to-Ones (During Lab Session)
 
 
 
@@ -53,6 +41,18 @@ How to start?
 * CSS styling (fonts, color, etc)
 * Demonstrate use floats and the box model
 * Make use of JavaScript/jQuery events to add interactivity to the page
+
+
+
+## The Memory Game
+<aside class="notes"></aside>
+
+![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
+
+How to start?
+
+1. Write pseudo code (20 mins)
+1. HTML and CSS (30 mins) first and JS last (60-90 mins)
 
 
 
