@@ -7,24 +7,22 @@
 	var App = {
 
 		init: function () {
-      this.todos = [];
-			this.cacheElements();
-			this.bindEvents();
-		},
-
-		cacheElements: function () {
+			this.todos = [];
 			this.$todoApp = $('#todoapp');
 			this.$header = this.$todoApp.find('#header');
 			this.$main = this.$todoApp.find('#main');
 			this.$newTodo = this.$header.find('#new-todo');
 			this.$toggleAll = this.$main.find('#toggle-all');
 			this.$todoList = this.$main.find('#todo-list');
+
+			this.bindEvents();
 		},
 
 		bindEvents: function () {
-			var list = this.$todoList;
 			this.$newTodo.on('keyup', this.create.bind(this));
 			this.$toggleAll.on('change', this.toggleAll.bind(this));
+
+			var list = this.$todoList;
 			list.on('change', '.toggle', this.toggle.bind(this));
 			list.on('dblclick', 'label', this.edit.bind(this));
 			list.on('keyup', '.edit', this.editKeyup.bind(this));
@@ -32,9 +30,43 @@
 			list.on('click', '.destroy', this.destroy.bind(this));
 		},
 
-    // TODO: go thru the entire list of todos, put the into the html template and append it to the ul
-		render: function () {
+		// 1: create list item structure represented by #todo-template
+		// 2: iterate the array this.todos, get the object inside it and
+		//    put todos.title as the text between the label tags
+		// 3: append the list item structure into this.$todoList
 
+		// Things to watch out for:
+			
+		// If a todo list item has been completed, the li must have a class="completed",
+		//  and the checkbox needs to be checked
+			
+		// <li> must have a data-id attribute
+			
+		// the label must have the todo title text
+		render: function () {
+			this.$todoList.empty();
+
+			for (var i = 0; i < this.todos.length; i++) {
+				var $li = $('<li>' +
+					'<div class="view">' +
+					'<input class="toggle" type="checkbox" >' +
+					'<label class="title"></label>' +
+					'<button class="destroy"></button>' +
+					'</div>' +
+					'<input class="edit" />' +
+					'</li>');
+
+				var todo = this.todos[i];
+				$li.attr('data-id', todo.id);
+				$li.find('.title').text(todo.title);
+				$li.find('.edit').text(todo.title);
+				if (todo.completed) {
+					$li.addClass('completed');
+					$li.find('.toggle').prop('checked', true);
+				}
+
+				this.$todoList.append($li);
+			}
 		},
 
 		toggleAll: function (e) {
