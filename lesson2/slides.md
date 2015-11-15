@@ -4,7 +4,7 @@
 ## FEWD - CSS Basics
 
 ### Instructors
-Kevin Bluer and Jimmy Wong
+Nicole Bieber
 
 
 
