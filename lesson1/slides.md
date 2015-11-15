@@ -3,9 +3,9 @@
 #FEWD Lesson 1
 ## FEWD - HTML BASICS
 
-###Instructors
+###Instructor
 
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
@@ -35,23 +35,11 @@ Kevin Bluer & Jimmy Wong
 
 ##Introductions
 
-###Kevin Bluer
+###Nicole Bieber
 
-* Entrepreneur and Developer
-* Lived in both London, New York, and now Hong Kong
-* Worked across a number of larger enterprises as well as startups
-* Currently operate Bluer Inc / Ltd
-
-
-
-##Introductions
-
-###Jimmy Wong
-
-* Open Source Full-Stack developer
-* Grew up in Hong Kong, spent a lot of time in Boston
-* Will move to San Francisco soon
-* Currently working for [Mattermark](https://mattermark.com/)
+* Senior Software Engineer at Amplify
+* I make educational software!
+* I've taught programming to kids, teenagers, and adults!
 
 
 
