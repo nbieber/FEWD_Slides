@@ -184,7 +184,7 @@ ABSOLUTE PATH always starts from ```/```
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 ## Fix It
 
-* Download https://github.com/ga-students/FEWD_HK_6 via the client
+* Download https://github.com/nbieber/FEWD_Slides via the client
 * Open lesson2/labs/fix_it/index.html
 * Debug the issues "issues"
 * An important discipline both for your own work and when working with other developers
