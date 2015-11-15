@@ -1,4 +1,4 @@
-FEWD_HK_6
+FEWD_Slides
 =========
 
-FEWD_HK_6 July 29 - Oct 9, 2014
+Welcome to FEWD!
