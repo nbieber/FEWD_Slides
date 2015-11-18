@@ -48,7 +48,8 @@ Nicole Bieber
 * Your name?
 * Why you're interested in gaining front-end skills?
 * Your favorite website? 
-* Don't forget to say hi on Schoology too [GA Student Profile](https://www.schoology.com/course/126724641/materials/discussion/view/126724709)!
+* Don't forget to say hi on Schoology too 
+<!--* [GA Student Profile](https://www.schoology.com/course/126724641/materials/discussion/view/126724709)!-->
 
 
 
@@ -71,7 +72,6 @@ Nicole Bieber
 
 * Start thinking about it as soon possible...
 * Make it as personal / contextual / fun / random 
-* [FEWD HK Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/project/v3/)
 * [GA Gallery](https://generalassemb.ly/gallery)
 
 
@@ -185,7 +185,7 @@ For large web applications, it could involve hundreds of people working on diffe
 Developer Tools
 
 * Text Editor / Integrated Development Environment
-* Automated Test Suits
+* Automated Test Suites
 * Deployment Tools
 * A Web Server
 
@@ -203,19 +203,21 @@ Project Management Tools
 
 
 
-## Github and Codepen (and let's be friends)
-<aside class="notes"></aside>
+<!--## Github and Codepen (and let's be friends)-->
+<!--<aside class="notes"></aside>-->
 
-* Write your code online at [codepen.io](http://codepen.io/) ([example](http://codepen.io/kevinbluer/pen/jlaGL))
-* Manage your code (and a lot more) at [github.com](http://github.com)
-* Register and list yourself (and follow your peers) at [bit.ly/fewd6-share](http://bit.ly/fewd6-share)
+<!--* Write your code online at [codepen.io](http://codepen.io/) ([example](http://codepen.io/kevinbluer/pen/jlaGL))-->
+<!--* Manage your code (and a lot more) at [github.com](http://github.com)-->
+<!--* Register and list yourself (and follow your peers) at [bit.ly/fewd6-share](http://bit.ly/fewd6-share)-->
 
 
 
 ## Download 
 
-* Slides and exercises from [bit.ly/fewd6-code](http://bit.ly/fewd6-code)
-* We'll be updating this regularly (and pushing updates)
+* Slides at [http://nbieber.github.io/FEWD_Slides](http://nbieber.github.io/FEWD_Slides)
+* Code at [https://github.com/nbieber/FEWD/](https://github.com/nbieber/FEWD/)
+* Notes at [https://learnwithnicole.wordpress.com/](https://learnwithnicole.wordpress.com/)
+* I'll be updating this regularly (and pushing updates)
 
 
 
@@ -236,9 +238,9 @@ Project Management Tools
 <aside class="notes"></aside>
 
 * Mix of code alongs and exercises (and slides)
-* Note that you can view the slides [http://ga-students.github.io/FEWD_HK_6/](http://ga-students.github.io/FEWD_HK_6/)
+* Note that you can view the slides [http://nbieber.github.io/FEWD_Slides](http://nbieber.github.io/FEWD_Slides)
 * Or check the slide markdown (.md) files in your local FEWD repository
-* Ask questions via Email, Schoology, or [Github Issues](https://github.com/ga-students/FEWD_HK_6/issues)
+* Ask questions via Email, Schoology, or Slack
 
 
 
@@ -374,10 +376,9 @@ The Doctype tells you if the page is HTML5 ready.
 <aside class="notes"></aside>
 
 * Simple Resume 
-* It's going to build up to the following (but for now just what we have covered...headers, bullets, etc)
-  * [About me](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_AboutMe.png)
-  * [Résumé](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_Resume.png)
-* Watch [Don't Fear The Internet](http://www.dontfeartheinternet.com/the-basics/not-tubes)
+<!--* It's going to build up to the following (but for now just what we have covered...headers, bullets, etc)-->
+<!--  * [About me](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_AboutMe.png)-->
+<!--  * [Résumé](https://raw.github.com/ga-students/FEWD_HK_5/gh-pages/lesson2/labs/wendy_resume/WendyBite_Resume.png)-->
 * Some additional reading on the next slide...
 
 
