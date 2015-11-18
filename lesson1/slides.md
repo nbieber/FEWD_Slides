@@ -212,7 +212,7 @@ Project Management Tools
 
 
 
-## Download 
+## Resources 
 
 * Slides at [http://nbieber.github.io/FEWD_Slides](http://nbieber.github.io/FEWD_Slides)
 * Code at [https://github.com/nbieber/FEWD/](https://github.com/nbieber/FEWD/)
