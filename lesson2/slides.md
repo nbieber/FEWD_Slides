@@ -26,7 +26,8 @@ Nicole Bieber
 ## Quick Recap (and Homework Review)
 
 * HTML Basics (html, p, h1, h2, h3, ul, li, a, etc)
-* Introduced Sublime Text, Github, Codepen
+* Introduced Sublime Text, Github
+<!--* , Codepen-->
 * Feedback on any of the following?
   * HTML Basics
   * Tools & Services
@@ -171,10 +172,12 @@ ABSOLUTE PATH always starts from ```/```
 * Github is both a place to store your code and a lovely web interface (social too)
 * Git is the underlying technology
   * And the means with which you get your code in (and out) of Github
-* Download the Github client (mac.github.com or windows.github.com)
-* Also install the CLI (Command Line Interface) from http://git-scm.com
-* Open https://github.com/ga-students/FEWD_HK_6 (and click "Clone in Desktop")
-* Quick look at the CLI (note that you'll also apply you "directory traversal" skills here too)
+<!--* Download the Github client (mac.github.com or windows.github.com)-->
+* Download SourceTree (https://www.sourcetreeapp.com/)
+<!--* Also install the CLI (Command Line Interface) from http://git-scm.com-->
+* Open https://github.com/nbieber/FEWD (and click "Clone in Desktop")
+<!--* Quick look at the CLI (note that you'll also apply you "directory traversal" skills here too)-->
+* ![SourceTree tutorial](https://learnwithnicole.wordpress.com/2015/11/15/making-a-new-project-with-github-and-sourcetree/)
 
 
 
@@ -184,11 +187,12 @@ ABSOLUTE PATH always starts from ```/```
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 ## Fix It
 
-* Download https://github.com/nbieber/FEWD_Slides via the client
-* Open lesson2/labs/fix_it/index.html
+<!--* Download https://github.com/nbieber/FEWD_Slides via the client-->
+* Open SourceTree to your FEWD project - press the 'pull' button
+* Open Week_02_Styling/In_Class/fix_it/index.html
 * Debug the issues "issues"
 * An important discipline both for your own work and when working with other developers
-* Once you've done we'll explore sub-directories
+* Once you're done we'll explore sub-directories
 
 
 
@@ -298,7 +302,7 @@ ABSOLUTE PATH always starts from ```/```
 ## CSS
 <aside class="notes"></aside>
 
-### Use EXTERNAL CSS for best practise!
+### Use EXTERNAL CSS for best practice!
 
 
 
