@@ -3,8 +3,8 @@
 
 ## FEWD - Advanced CSS
 
-### Instructors
-Kevin Bluer & Jimmy Wong
+### Instructor
+Nicole Bieber
 
 
 
@@ -72,9 +72,7 @@ Kevin Bluer & Jimmy Wong
 ```
 /* Box Model Hack */
 * {
-     -moz-box-sizing: border-box; /* Firexfox */
-     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
-     box-sizing: border-box; /* IE */
+     box-sizing: border-box;
 }
 ```
 
@@ -206,16 +204,16 @@ How to __select__ classes in CSS?
 
 
 
-## Version Control
-<aside class="notes">
-  Help the students to fork the repository and setup the gh-pages branch
-</aside>
+<!--## Version Control-->
+<!--<aside class="notes">-->
+<!--  Help the students to fork the repository and setup the gh-pages branch-->
+<!--</aside>-->
 
-* Sign-up with [GitHub](https://github.com/signup/free)
-* `fork` the [FEWD repository](https://github.com/ga-students/FEWD_HK_5)
-* Open Terminal/PowerShell and checkout the source code by
-  * `git clone https://github.com/ga-students/FEWD_HK_5.git`
-* [Pave the way](https://help.github.com/articles/making-changes) for your final project
-* Serve your website with [GitHub Pages](https://help.github.com/articles/creating-project-pages-manually)
-* [Marvel](https://github.com/) at your mastery over Git
-* ... the most complicated tool built by mankind
+<!--* Sign-up with [GitHub](https://github.com/signup/free)-->
+<!--* `fork` the [FEWD repository](https://github.com/ga-students/FEWD_HK_5)-->
+<!--* Open Terminal/PowerShell and checkout the source code by-->
+<!--  * `git clone https://github.com/ga-students/FEWD_HK_5.git`-->
+<!--* [Pave the way](https://help.github.com/articles/making-changes) for your final project-->
+<!--* Serve your website with [GitHub Pages](https://help.github.com/articles/creating-project-pages-manually)-->
+<!--* [Marvel](https://github.com/) at your mastery over Git-->
+<!--* ... the most complicated tool built by mankind-->
