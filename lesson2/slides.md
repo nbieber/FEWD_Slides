@@ -14,25 +14,26 @@ Nicole Bieber
 * HTML Basics Review
   * Images
   * Directory Structures
-* Introducing Git (and Github again)
+<!--* Introducing Git (and Github again)-->
 * Intro To CSS
   * Fonts
 * Code Along
 * CSS Colors
 * Lab Time
+* Introducing Git (and Github again)
 
 
 
-## Quick Recap (and Homework Review)
+<!--## Quick Recap (and Homework Review)-->
 
-* HTML Basics (html, p, h1, h2, h3, ul, li, a, etc)
-* Introduced Sublime Text, Github
+<!--* HTML Basics (html, p, h1, h2, h3, ul, li, a, etc)-->
+<!--* Introduced Sublime Text, Github-->
 <!--* , Codepen-->
-* Feedback on any of the following?
-  * HTML Basics
-  * Tools & Services
-  * Schoology
-  * Life in general? :)
+<!--* Feedback on any of the following?-->
+<!--  * HTML Basics-->
+<!--  * Tools & Services-->
+<!--  * Schoology-->
+<!--  * Life in general? :)-->
 
 
 
@@ -177,7 +178,7 @@ ABSOLUTE PATH always starts from ```/```
 <!--* Also install the CLI (Command Line Interface) from http://git-scm.com-->
 * Open https://github.com/nbieber/FEWD (and click "Clone in Desktop")
 <!--* Quick look at the CLI (note that you'll also apply you "directory traversal" skills here too)-->
-* ![SourceTree tutorial](https://learnwithnicole.wordpress.com/2015/11/15/making-a-new-project-with-github-and-sourcetree/)
+* SourceTree Tutorial(https://learnwithnicole.wordpress.com/2015/11/15/making-a-new-project-with-github-and-sourcetree/)
 
 
 
