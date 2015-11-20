@@ -418,7 +418,9 @@ These are used less frequently, but are handy for basic colors like `black` and 
 
 ### RGB Color Values
 
-```rgb(0,0,0)```
+```
+rgb(0,0,0)
+```
 
 * The first value is red, the second green, the third blue.
 * Each value can range from 0 to 255, which expresses the same number of color steps as 00 to FF in base-16.
