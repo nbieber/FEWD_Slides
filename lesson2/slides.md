@@ -3,7 +3,7 @@
 
 ## FEWD - CSS Basics
 
-### Instructors
+### Instructor
 Nicole Bieber
 
 
