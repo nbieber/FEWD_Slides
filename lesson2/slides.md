@@ -471,6 +471,9 @@ As with RGBa, HSLa is exactly like HSL for the first 3 values, but takes a 4th a
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-* Wendy G. Bites - Resume
-* "WendyBite_Resume.png" (and "RESUME PAGE" under "Wendy_Bite.txt")
-* Reference the same CSS file
+<!--* Wendy G. Bites - Resume-->
+<!--* "WendyBite_Resume.png" (and "RESUME PAGE" under "Wendy_Bite.txt")-->
+<!--* Reference the same CSS file-->
+* Your Portfolio Page!
+* Continue where you left off on the homework - add a second page to start displaying the projects you will build in this class
+* Use the sample code from last time as a model, but feel free to be creative!
