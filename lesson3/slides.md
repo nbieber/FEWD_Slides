@@ -177,30 +177,30 @@ How to __select__ classes in CSS?
 
 
 
-## Version Control
-<aside class="notes">Jimmy ~ 60 Min</aside>
+<!--## Version Control-->
+<!--<aside class="notes">Jimmy ~ 60 Min</aside>-->
 
-### Installation
+<!--### Installation-->
 
-* Linux: [Git](https://help.github.com/articles/set-up-git)
-* Mac: [git-osx-installer](https://code.google.com/p/git-osx-installer/)
-* Mac(Alternative):[Homebrew](http://brew.sh/), [XCode](https://developer.apple.com/xcode/)
-* Windows: [GitHub on Windows](http://windows.github.com/)
-* Verify the git installation in Terminal/PowerShell
-  * `git --version`
+<!--* Linux: [Git](https://help.github.com/articles/set-up-git)-->
+<!--* Mac: [git-osx-installer](https://code.google.com/p/git-osx-installer/)-->
+<!--* Mac(Alternative):[Homebrew](http://brew.sh/), [XCode](https://developer.apple.com/xcode/)-->
+<!--* Windows: [GitHub on Windows](http://windows.github.com/)-->
+<!--* Verify the git installation in Terminal/PowerShell-->
+<!--  * `git --version`-->
 
 
 
-## Git Concepts
-<aside class="notes">
-  Jimmy ~ 10 Min
-  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
-</aside>
+<!--## Git Concepts-->
+<!--<aside class="notes">-->
+<!--  Jimmy ~ 10 Min-->
+<!--  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible-->
+<!--</aside>-->
 
-### The Hash
-### The Branch
-### The Diff
-### The Merge
+<!--### The Hash-->
+<!--### The Branch-->
+<!--### The Diff-->
+<!--### The Merge-->
 
 
 
