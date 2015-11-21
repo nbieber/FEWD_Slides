@@ -481,3 +481,10 @@ As with RGBa, HSLa is exactly like HSL for the first 3 values, but takes a 4th a
 * Open https://github.com/nbieber/FEWD (and click "Clone in Desktop")
 <!--* Quick look at the CLI (note that you'll also apply you "directory traversal" skills here too)-->
 * SourceTree Tutorial(https://learnwithnicole.wordpress.com/2015/11/15/making-a-new-project-with-github-and-sourcetree/)
+
+## Git Concepts
+
+* **commit** - a group of changes you've saved, like a checkpoint
+* **staging** - where you put your changes before you commit them
+* **push** - sending your commits from your computer (your "local machine") to Github.com (the "remote host")
+* **branch** - you can have multiple versions of your code. For example, a "master" branch where you make all of your commits, and a "gh-pages" branch that reflects what's live online.
