@@ -176,6 +176,10 @@ How to __select__ classes in CSS?
 **[Preview](https://github.com/nbieber/FEWD/raw/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg)** : Relaxr
 
 
+## Exit Ticket
+
+[tinyurl.com/fewd74exit](tinyurl.com/fewd74exit)
+
 
 <!--## Version Control-->
 <!--<aside class="notes">Jimmy ~ 60 Min</aside>-->
