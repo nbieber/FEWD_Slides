@@ -3,8 +3,8 @@
 
 ## FEWD - Advanced CSS Continued
 
-### Instructors
-Kevin Bluer & Jimmy Wong
+### Instructor
+Nicole Bieber
 
 
 
@@ -19,7 +19,7 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## Advanced CSS Selector
+## Advanced CSS Selectors
 <aside class="notes">Kit ~ 15 min</aside>
 
 * element
