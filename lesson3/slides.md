@@ -173,7 +173,7 @@ How to __select__ classes in CSS?
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-**[Preview](http://ga-students.github.io/FEWD_HK_4/lesson3/labs/fashion_blog_part1/Fashion_Blog.png)** : Fashion Blog
+**[Preview](https://github.com/nbieber/FEWD/raw/master/Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg)** : Relaxr
 
 
 
