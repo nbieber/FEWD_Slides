@@ -4,7 +4,7 @@
 ## FEWD - Advanced CSS Continued
 
 ### Instructor
-Nicole Bieber
+Chandler Moisen
 
 
 
