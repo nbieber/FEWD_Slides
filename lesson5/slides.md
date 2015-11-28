@@ -4,30 +4,29 @@
 ## FEWD - Lab Session
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Chandler Moisen
 
 
 
 ## Agenda
 
-* Homework
 * Tools (Chrome & Web Developer)
 	* Small Challenge
 * CSS (Psuedo Classes)
-* Hosting (using AWS S3)
 * Lab
 	* Pulling concepts together
 	* Also we'll have plenty of time for individual Q&A
+* Homework
 
 
 
-## Homework
-<aside class="notes"></aside>
+<!--## Homework-->
+<!--<aside class="notes"></aside>-->
 
-* Due in by midnight tonight
-* Primary focus on layout
-* Any difficulties (again there are NO silly questions)?
- 	* Also we have an upcoming makeup session
+<!--* Due in by midnight tonight-->
+<!--* Primary focus on layout-->
+<!--* Any difficulties (again there are NO silly questions)?-->
+<!-- 	* Also we have an upcoming makeup session-->
 
 
 
@@ -69,7 +68,7 @@ Kevin Bluer & Jimmy Wong
 ## Chrome Developer Tools - Challenges
 
 * I'll say something and you have to use the developer tools to find it
-* Go to google.com.hk
+* Go to google.com
 
 
 
@@ -164,26 +163,26 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## Uploading your sites (to AWS)
-<aside class="notes"></aside>
+<!--## Uploading your sites (to AWS)-->
+<!--<aside class="notes"></aside>-->
 
-* "You can host your entire static website on Amazon S3 for an inexpensive, highly available hosting solution that scales automatically to meet traffic demands."
-* More info at http://aws.amazon.com/s3/
-* Signup at https://aws.amazon.com/free
-	* Note that it will need a credit-card so if that's an issue we can set you up with a directory after class
-* Example at (with a custom domain): http://fewd.bluer.com/
+<!--* "You can host your entire static website on Amazon S3 for an inexpensive, highly available hosting solution that scales automatically to meet traffic demands."-->
+<!--* More info at http://aws.amazon.com/s3/-->
+<!--* Signup at https://aws.amazon.com/free-->
+<!--	* Note that it will need a credit-card so if that's an issue we can set you up with a directory after class-->
+<!--* Example at (with a custom domain): http://fewd.bluer.com/-->
 
 
 
-## Setting Up S3
-<aside class="notes"></aside>
+<!--## Setting Up S3-->
+<!--<aside class="notes"></aside>-->
 
-* Once registered: https://console.aws.amazon.com/s3
-* "Create bucket"
-* Actions | Upload (try a page)
-* Properties
-	* Permission | Edit Bucket Policy (select the one from aws/aws.json and change the bucket name)
-	* Static Website Hosting | Click Enable | Index Document as index.html
+<!--* Once registered: https://console.aws.amazon.com/s3-->
+<!--* "Create bucket"-->
+<!--* Actions | Upload (try a page)-->
+<!--* Properties-->
+<!--	* Permission | Edit Bucket Policy (select the one from aws/aws.json and change the bucket name)-->
+<!--	* Static Website Hosting | Click Enable | Index Document as index.html-->
 
 
 
@@ -215,7 +214,7 @@ Kevin Bluer & Jimmy Wong
 
 ### Week3
 
-* Begin Project Proposal + Wireframes (sketching or Balsamiq Mockups)
+<!--* Begin Project Proposal + Wireframes (sketching or Balsamiq Mockups)-->
 * Continue exploring the Startup Matchmaker
 * [Front Row Video - How To Learn How To Code](https://generalassemb.ly/online/videos/programming-for-non-programmers-tech-speak/cinema?chapter=3)
 * [Front Row Video - What Can You Do With JavaScript?](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3)
