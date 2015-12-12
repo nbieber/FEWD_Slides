@@ -3,8 +3,8 @@
 
 ## FEWD - Intro Programming
 
-### Instructors
-Kevin Bluer & Jimmy Wong
+### Instructor
+Nicole Bieber
 
 
 
@@ -42,13 +42,13 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## Looks take a look...Utilties
+## Let's take a look...Utilties
 * [Reset.css](http://meyerweb.com/eric/tools/css/reset/) - "goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on"
 * [Normalize.css](http://necolas.github.io/normalize.css/) - More comprehensive and "precisely targets only the styles that need normalizing". Also built into a lot of frameworks (as we'll see next)
 
 
 
-## Looks take a look...Templates & Frameworks
+## Let's take a look...Templates & Frameworks
 * [HTML5BP](http://html5boilerplate.com/) / [H5BP Showcase](http://h5bp.net/)
 * [Twitter Bootstrap](http://getbootstrap.com/) / [Love Bootstrap](http://lovebootstrap.com/) + [Built With Bootstrap](http://builtwithbootstrap.com/) + [Wrap Bootstrap](https://wrapbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/) / [Responsive Gallery](http://zurb.com/responsive?framework_id=1)
@@ -60,18 +60,17 @@ Kevin Bluer & Jimmy Wong
 ## However...
 * No heavy usage of the frameworks throughout the course :)
 * As such feel free to being exploring + gathering your own time
-* Also feel free to use samples such as the [Startup Matchmaker](/lesson6/startup_matchmaker/index.html) 
 
 
 
 ## Quick Aside: Code Reuse
-* Snippets (begin gathering) + And note the Snippets Library in Sublime (Ctrl + S)
-  * Let's try it out
-  * Sublime | Tools + New Snippet
-  * Add something (note the CDATA and tabTrigger)
-  * Save as .sublime-snippet
-* Site Templates (also explore and gather)
-* Also try and aspire to be [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) (Don't Repeat Yourself) 
+<!--* Snippets (begin gathering) + And note the Snippets Library in Sublime (Ctrl + S)-->
+<!--  * Let's try it out-->
+<!--  * Sublime | Tools + New Snippet-->
+<!--  * Add something (note the CDATA and tabTrigger)-->
+<!--  * Save as .sublime-snippet-->
+<!--* Site Templates (also explore and gather)-->
+* Try and aspire to be [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) (Don't Repeat Yourself) 
 
 
 
@@ -165,9 +164,8 @@ repeat forever:
 ## Pseudo Code
 <aside class="notes"></aside>
 
-### Flow chart helps too!
+### Flow charts help too!
 
-* [Fix the lamp](http://ils.indiana.edu/faculty/smilojev/teaching/s515spring2012/2012springprojects/session11/img/flowchart1.jpg)
 * [Golf or Home](http://www.pacestar.com/images/sampfc.gif)
 * [Alarm War](http://www.edrawsoft.com/images/examples/Process-Flowchart.png)
 
@@ -179,7 +177,7 @@ repeat forever:
 # Rock Paper Scissors
 <aside class="notes"></aside>
 
-### Can you write a robot which can play Rock Paper Scissors with u?
+### Can you write a robot which can play Rock Paper Scissors with you?
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
@@ -202,7 +200,6 @@ repeat forever:
 
 ## Spot the JavaScript?
 
-* [Impress](http://bartaz.github.io/impress.js/#/bored)
 * [Form Validation](http://parsleyjs.org/doc/examples/simple.html)
 * [D3JS](http://d3js.org/)
 * [Twitter Bootstrap](http://getbootstrap.com/javascript/) 
@@ -234,7 +231,7 @@ repeat forever:
 [Traffic Light](http://codepen.io/kevinbluer/pen/gfhJz)
 <aside class="notes"></aside>
 
-### Be an engineer and the traffic light
+### Traffic light
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
@@ -243,20 +240,20 @@ repeat forever:
 
 
 
-## Wireframing
-* "A page schematic or screen blueprint, is a visual guide that represents the skeletal framework of a website", [Wikipedia](https://en.wikipedia.org/wiki/Website_wireframe)
-* Lots of tools and approaches (important to find the ones that work best for you)
-* [Paper](https://en.wikipedia.org/wiki/Paper) (dead trees variety), [Adobe Ideas](https://itunes.apple.com/hk/app/adobe-ideas/id364617858?mt=8), [Balamiq Mockups](http://balsamiq.com/products/mockups/), [UXPin](http://uxpin.com/)
+<!--## Wireframing-->
+<!--* "A page schematic or screen blueprint, is a visual guide that represents the skeletal framework of a website", [Wikipedia](https://en.wikipedia.org/wiki/Website_wireframe)-->
+<!--* Lots of tools and approaches (important to find the ones that work best for you)-->
+<!--* [Paper](https://en.wikipedia.org/wiki/Paper) (dead trees variety), [Adobe Ideas](https://itunes.apple.com/hk/app/adobe-ideas/id364617858?mt=8), [Balamiq Mockups](http://balsamiq.com/products/mockups/), [UXPin](http://uxpin.com/)-->
 
 
 
-## Homework
+<!--## Homework-->
 
-* Begin Project Wireframeing (any of the tools mentioned)
-  * Concept Stage
-  * 2-3 Core Screens
-* Spend some time organizing exploring frameworks, organizing your code / snippets, etc
-* If you haven't watched...
-  * [Front Row Video - How To Learn How To Code](https://generalassemb.ly/online/videos/programming-for-non-programmers-tech-speak/cinema?chapter=3)
-  * [Front Row Video - What Can You Do With JavaScript?](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3)
-* :)
+<!--* Begin Project Wireframeing (any of the tools mentioned)-->
+<!--  * Concept Stage-->
+<!--  * 2-3 Core Screens-->
+<!--* Spend some time organizing exploring frameworks, organizing your code / snippets, etc-->
+<!--* If you haven't watched...-->
+<!--  * [Front Row Video - How To Learn How To Code](https://generalassemb.ly/online/videos/programming-for-non-programmers-tech-speak/cinema?chapter=3)-->
+<!--  * [Front Row Video - What Can You Do With JavaScript?](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3)-->
+<!--* :)-->
