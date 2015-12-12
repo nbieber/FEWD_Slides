@@ -147,7 +147,11 @@ Example:
 * [.attr()](http://api.jquery.com/attr/)
 * [.css()](http://api.jquery.com/css/)
 
+## Building an FAQ
+FAQ(http://codepen.io/nevan/pen/xkhmA)
 
+## jQuery Syntax
+(http://codepen.io/GeneralAssembly/pen/EAubl)
 
 
 ## $
@@ -160,7 +164,6 @@ Example:
 [Color Switcher in Javascript](http://codepen.io/kevinbluer/pen/vrfbJ)
 
 [Color Switcher in jQuery](http://codepen.io/kevinbluer/pen/rfpEi)
-
 
 
 ## Divided Times
@@ -182,7 +185,6 @@ And also:
 
 * Start by exploring the functions on api.jquery.com
 * We'll review on screen shortly
-
 
 
 # Wireframing Tools
