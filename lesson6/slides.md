@@ -228,8 +228,9 @@ repeat forever:
 
 
 
-[Traffic Light](http://codepen.io/kevinbluer/pen/gfhJz)
+[Traffic Light](http://codepen.io/nevan/pen/shtLA)
 <aside class="notes"></aside>
+<!-- Solution http://codepen.io/nevan/pen/shtLA -->
 
 ### Traffic light
 
