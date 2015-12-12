@@ -4,7 +4,7 @@
 ## FEWD - Functions
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
