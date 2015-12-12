@@ -4,7 +4,7 @@
 ## FEWD - JS Basics
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
@@ -17,11 +17,6 @@ Kevin Bluer & Jimmy Wong
 * Arithmetic
 * Conditionals
 
-
-
-# Announcements
-* Anyone interesting in a small consulting project?
-* Hong Kong JS [meetup.com/hongkongjs](http://meetup.com/hongkongjs/)
 
 
 
