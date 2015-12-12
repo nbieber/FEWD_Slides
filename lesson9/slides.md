@@ -4,7 +4,7 @@
 ## FEWD - jQuery
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
@@ -96,7 +96,8 @@ $("p")
 
 Returns HTML elements you have selected.
 
-
+## jQuery Selectors Exercise
+[Selectors on girldevelopit.com](http://www.teaching-materials.org/jquery/exercises/domaccess.html)
 
 ## Very brief look...("jquery")
 <aside class="notes"></aside>
@@ -147,6 +148,9 @@ Example:
 * [.css()](http://api.jquery.com/css/)
 
 
+
+
+## $
 
 ## Rewrite (and refactor) Color Switcher
 <aside class="notes">Class ~ 60 Min</aside>
