@@ -57,7 +57,7 @@ __OR__
 
 Use the Google CDN
 
-_&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"&gt;&lt;/script&gt;_
+_&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" &gt;&lt;/script&gt;_
 
 Make sure you have the __http__ protocol in the above URL.
 
