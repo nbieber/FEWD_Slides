@@ -77,7 +77,8 @@ The Dollar Sign
 
 Selectors are just like CSS
 
-```$(".class").click();```
+```$(".class").click();
+```
 
 
 
@@ -95,6 +96,7 @@ $("p")
 ```
 
 Returns HTML elements you have selected.
+
 
 ## jQuery Selectors Exercise
 [Selectors on girldevelopit.com](http://www.teaching-materials.org/jquery/exercises/domaccess.html)
@@ -123,7 +125,8 @@ Returns HTML elements you have selected.
 <aside class="notes"></aside>
 
 If you want to place the .js file inside the `<head>`, you need put your code inside
-```$(document).ready();```
+```$(document).ready();
+```
 
 So your code will run after the DOM is completely loaded and you can select any tags in the `<body>` with any problem.
 
