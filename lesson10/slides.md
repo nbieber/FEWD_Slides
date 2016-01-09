@@ -263,6 +263,6 @@ Binary operators are just functions that take 2 parameters.
 
 
 
-## Homework
+<!--## Homework-->
 
-[Read Eloquent Javascript Introduction to Chapter 3](http://eloquentjavascript.net/)
+<!--[Read Eloquent Javascript Introduction to Chapter 3](http://eloquentjavascript.net/)-->
