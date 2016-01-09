@@ -4,7 +4,7 @@
 ## FEWD - JS Review and Scopes
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
@@ -16,7 +16,7 @@ Kevin Bluer & Jimmy Wong
   * Control Structures
   * Functions
 * Variable scoping
-* Build an image carousal
+* Build an image carousel
 
 
 
@@ -257,7 +257,7 @@ Binary operators are just functions that take 2 parameters.
 
 
 
-## Let's build a carousal
+## Let's build a carousel
 
 [Codepen](http://codepen.io/wyuenho/pen/HCtov)
 
