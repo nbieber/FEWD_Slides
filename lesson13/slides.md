@@ -1,7 +1,7 @@
 ![General Assembly](../assets/images/ga.png)
 # FEWD LESSON 13
 
-## FEWD - Lab Session & Project Kickoff
+## FEWD - Project Kickoff
 
 ### Instructors
 Nicole Bieber
