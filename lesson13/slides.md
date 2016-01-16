@@ -4,7 +4,7 @@
 ## FEWD - Lab Session & Project Kickoff
 
 ### Instructors
-Kevin Bluer & Jimmy Wong
+Nicole Bieber
 
 
 
@@ -14,9 +14,9 @@ Kevin Bluer & Jimmy Wong
 * Projects - Goals
 * Projects - Requirements
 * Projects - Best Practices
-* Lab Session - The Memory Game
-* CSS Background Position
-* One-to-Ones (During Lab Session)
+<!--* Lab Session - The Memory Game-->
+<!--* CSS Background Position-->
+<!--* One-to-Ones (During Lab Session)-->
 
 
 
@@ -59,48 +59,48 @@ Kevin Bluer & Jimmy Wong
 
 
 
-## CSS - background-position
-<aside class="notes"></aside>
+<!--## CSS - background-position-->
+<!--<aside class="notes"></aside>-->
 
-HTML
+<!--HTML-->
 
-```
-<div id="cards"></div>
-<div id="clubKing"></div>
-```
+<!--```-->
+<!--<div id="cards"></div>-->
+<!--<div id="clubKing"></div>-->
+<!--```-->
 
-CSS
+<!--CSS-->
 
-```
-#cards {
-  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
-  width: 950px;
-  height: 392px;
-}
+<!--```-->
+<!--#cards {-->
+<!--  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');-->
+<!--  width: 950px;-->
+<!--  height: 392px;-->
+<!--}-->
 
-#clubKing {
-  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');
-  width: 71px;
-  height: 96px;
-  background-position: -877px -1px;
-}
-```
-
-
-
-## Lab - The Memory Game
+<!--#clubKing {-->
+<!--  background-image: url('http://ga-students.github.io/FEWD_HK_5/lesson11/labs/matching/images/classic-playing-cards.png');-->
+<!--  width: 71px;-->
+<!--  height: 96px;-->
+<!--  background-position: -877px -1px;-->
+<!--}-->
+<!--```-->
 
 
 
-## The Memory Game
-<aside class="notes"></aside>
+<!--## Lab - The Memory Game-->
 
-![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-How to start?
 
-1. Write pseudo code (20 mins)
-1. HTML and CSS (30 mins) first and JS last (60-90 mins)
+<!--## The Memory Game-->
+<!--<aside class="notes"></aside>-->
+
+<!--![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)-->
+
+<!--How to start?-->
+
+<!--1. Write pseudo code (20 mins)-->
+<!--1. HTML and CSS (30 mins) first and JS last (60-90 mins)-->
 
 
 
