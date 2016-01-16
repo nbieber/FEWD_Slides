@@ -40,7 +40,7 @@ Nicole Bieber
 * Demonstrates correct use of classes and IDs
 * Selects appropriate tags to markup content
 * CSS styling (fonts, color, etc)
-* Demonstrate use floats and the box model
+<!--* Demonstrate use floats and the box model-->
 * Make use of JavaScript/jQuery events to add interactivity to the page
 
 
